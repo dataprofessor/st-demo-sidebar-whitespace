@@ -1,6 +1,14 @@
 # import modules
 import streamlit as st
 
+st.markdown("""
+  <style>
+    .css-1pd56a0.e1tzin5v0 {
+      margin-top: 25px;
+    }
+  </style>
+""", unsafe_allow_html=True)
+
 # configure sidebar text and widgets
 st.sidebar.title("My App")
 file = st.sidebar.file_uploader("Choose a file", key='a')
