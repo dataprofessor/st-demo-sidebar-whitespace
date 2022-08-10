@@ -3,7 +3,7 @@ import streamlit as st
 
 st.markdown("""
   <style>
-    .css-1pd56a0.e1tzin5v0 {
+    .css-128j0gw.egzxvld2 {
       margin-top: 25px;
     }
   </style>
