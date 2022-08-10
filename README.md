@@ -1,18 +1,13 @@
-# Name of Streamlit App
+# st-demo-sidebar-whitespace
 
-Description of the app ...
+Using a CSS hack to reduce the white space above the header text in the sidebar of a Streamlit app.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-app/)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dataprofessor-st-demo-sidebar-whitespace-streamlit-app-mlhzjx.streamlitapp.com)
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+This demo app was used as a solution for the following forum question:
+- https://discuss.streamlit.io/t/removing-space-before-sidebar-title/28961
+
