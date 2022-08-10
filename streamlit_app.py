@@ -4,7 +4,7 @@ import streamlit as st
 st.markdown("""
   <style>
     .css-o18uir.e16nr0p33 {
-      margin-top: -70px;
+      margin-top: -75px;
     }
   </style>
 """, unsafe_allow_html=True)
